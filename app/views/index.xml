@@ -1,6 +1,6 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label" onClick="doClick">Hello, World</Label>
+		<Button id="label" onClick="doClick">Take photo!</Button>
 		<ImageView id="preview"/>
 	</Window>
 </Alloy>

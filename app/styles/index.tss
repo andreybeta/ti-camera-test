@@ -3,10 +3,9 @@
 	layout: "vertical"
 }
 
-"Label": {
+"Button": {
 	width: Ti.UI.SIZE,
-	height: Ti.UI.SIZE,
-	color: "#000"
+	height: Ti.UI.SIZE
 }
 
 "#label": {
@@ -19,5 +18,5 @@
 	width: 300,
 	height: 300,
 	borderWidth: 1,
-	borderColor: "#FF0000"
+	borderColor: "#3333FF"
 }
